@@ -1,0 +1,12 @@
+C:\Users\stitc\source\repos\Notewords\Notewords\bin\Debug\Notewords.exe.config
+C:\Users\stitc\source\repos\Notewords\Notewords\bin\Debug\Notewords.exe
+C:\Users\stitc\source\repos\Notewords\Notewords\bin\Debug\Notewords.pdb
+C:\Users\stitc\source\repos\Notewords\Notewords\bin\Debug\Notewords.xml
+C:\Users\stitc\source\repos\Notewords\Notewords\obj\Debug\Notewords.vbprojAssemblyReference.cache
+C:\Users\stitc\source\repos\Notewords\Notewords\obj\Debug\Notewords.Form1.resources
+C:\Users\stitc\source\repos\Notewords\Notewords\obj\Debug\Notewords.Resources.resources
+C:\Users\stitc\source\repos\Notewords\Notewords\obj\Debug\Notewords.vbproj.GenerateResource.cache
+C:\Users\stitc\source\repos\Notewords\Notewords\obj\Debug\Notewords.vbproj.CoreCompileInputs.cache
+C:\Users\stitc\source\repos\Notewords\Notewords\obj\Debug\Notewords.exe
+C:\Users\stitc\source\repos\Notewords\Notewords\obj\Debug\Notewords.xml
+C:\Users\stitc\source\repos\Notewords\Notewords\obj\Debug\Notewords.pdb
